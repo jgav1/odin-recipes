@@ -1,0 +1,1 @@
+The project consists of a simple recipes webpage with links and images
